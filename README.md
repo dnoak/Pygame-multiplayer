@@ -7,7 +7,7 @@ Execução:
 
 2 - Os outros arquivos .py são os jogadores, coloque o nome do arquivo no formato \<nomeJogador\>_\<nomeNave\>.py
 
-\t2.1 - Caso o <nomeJogador> comece com "bot", ele vira um robô com movimentos predeterminados.
+&emsp;2.1 - Caso o <nomeJogador> comece com "bot", ele vira um robô com movimentos predeterminados.
 
 3 - Mude a variável `mqtt_broker` do arquivo .py do jogador para o IP do HOST e execute o arquivo
 
