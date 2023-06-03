@@ -8,6 +8,5 @@ Execução:
 3 - Mude a variável `mqtt_broker` do arquivo .py do jogador para o IP do HOST e execute o arquivo
 
 Instruções:
-- Mouse - movimento: mira 
-          clique esquerdo: tiro
+- Mouse - movimento: mira; clique esquerdo: tiro
 - Teclado - WASD: movimentação
